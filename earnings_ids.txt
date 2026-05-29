@@ -1,0 +1,999 @@
+
+CES Industry Code	NAICS Code (1)	CES Industry Title	Ownership	Next Highest Published Level	NSA Published Series	SA Published Series (2)	Start Year of AE Series
+00-000000		Total nonfarm	Private and all government		B	B	1939
+05-000000		Total private	Private	00-000000	A	A	1939
+06-000000		Goods-producing	Private	05-000000	A	A	1939
+07-000000		Service-providing	Private and all government	00-000000	B	B	1939
+08-000000		Private service-providing	Private	05-000000	A	A	1939
+10-000000		Mining and logging	Private	06-000000	A	A	1939
+10-113300	1133	Logging	Private	10-000000	A	A	1947
+10-210000	21	Mining, quarrying, and oil and gas extraction	Private	10-000000	A	A	1958
+10-211000	211	Oil and gas extraction	Private	10-210000	A	A	1972
+10-212000	212	Mining (except oil and gas)	Private	10-210000	A	A	1990
+10-212100	2121	Coal mining	Private	10-212000	B	B	1985
+10-212114	212114	Surface coal mining	Private	10-212100	C	C	1990
+10-212115	212115	Underground coal mining	Private	10-212100	C	C	1990
+10-212200	2122	Metal ore mining	Private	10-212000	B	B	1990
+10-212220	21222	Gold ore and silver ore mining	Private	10-212200	C	C	1990
+10-212290	21221	Iron ore, copper, nickel, lead, zinc, and other metal ore mining	Private	10-212200	C	C	1990
+10-212290	21223	Iron ore, copper, nickel, lead, zinc, and other metal ore mining	Private	10-212200	C	C	1990
+10-212290	21229	Iron ore, copper, nickel, lead, zinc, and other metal ore mining	Private	10-212200	C	C	1990
+10-212300	2123	Nonmetallic mineral mining and quarrying	Private	10-212000	A	A	1990
+10-212310	21231	Stone mining and quarrying	Private	10-212300	A	A	1990
+10-212312	212312	Crushed and broken limestone mining and quarrying	Private	10-212310	E	E	1990
+10-212319	212311	Dimension stone, crushed and broken granite, and other crushed and broken stone mining and quarrying	Private	10-212310	E	E	1990
+10-212319	212313	Dimension stone, crushed and broken granite, and other crushed and broken stone mining and quarrying	Private	10-212310	E	E	1990
+10-212319	212319	Dimension stone, crushed and broken granite, and other crushed and broken stone mining and quarrying	Private	10-212310	E	E	1990
+10-212320	21232	Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying	Private	10-212300	C	C	1990
+10-212321	212321	Construction sand and gravel mining	Private	10-212320	B	B	1990
+10-212390	21239	Other nonmetallic mineral mining and quarrying	Private	10-212300	E	E	1990
+10-213000	213	Support activities for mining	Private	10-210000	A	A	1990
+10-213111	213111	Drilling oil and gas wells	Private	10-213000	C	C	1990
+10-213112	213112	Support activities for oil and gas operations	Private	10-213000	A	A	1990
+10-213115	213113	Support activities for coal, metal, and nonmetallic minerals mining	Private	10-213000	C	C	1990
+10-213115	213114	Support activities for coal, metal, and nonmetallic minerals mining	Private	10-213000	C	C	1990
+10-213115	213115	Support activities for coal, metal, and nonmetallic minerals mining	Private	10-213000	C	C	1990
+20-000000		Construction	Private	06-000000	A	A	1939
+20-236000	236	Construction of buildings	Private	20-000000	A	A	1990
+20-236100	2361	Residential building construction	Private	20-236000	A	A	1985
+20-236115	236115	New single-family housing construction (except for-sale builders)	Private	20-236100	A	A	1990
+20-236116	236116	New multifamily housing construction (except for-sale builders)	Private	20-236100	B	B	1990
+20-236117	236117	New housing for-sale builders	Private	20-236100	B	B	1990
+20-236118	236118	Residential remodelers	Private	20-236100	A	A	1990
+20-236200	2362	Nonresidential building construction	Private	20-236000	A	A	1990
+20-236210	23621	Industrial building construction	Private	20-236200	A	A	1990
+20-236220	23622	Commercial and institutional building construction	Private	20-236200	A	A	1990
+20-237000	237	Heavy and civil engineering construction	Private	20-000000	A	A	1990
+20-237100	2371	Utility system construction	Private	20-237000	A	A	1990
+20-237110	23711	Water and sewer line and related structures construction	Private	20-237100	A	A	1990
+20-237120	23712	Oil and gas pipeline and related structures construction	Private	20-237100	A	A	1990
+20-237130	23713	Power and communication line and related structures construction	Private	20-237100	A	A	1990
+20-237200	2372	Land subdivision	Private	20-237000	E	E	1990
+20-237300	2373	Highway, street, and bridge construction	Private	20-237000	A	A	1990
+20-237900	2379	Other heavy and civil engineering construction	Private	20-237000	E	E	1990
+20-238000	238	Specialty trade contractors	Private	20-000000	A	A	1976
+20-238001	part 238	Residential specialty trade contractors	Private	20-238000	C	C	2001
+20-238002	part 238	Nonresidential specialty trade contractors	Private	20-238000	C	C	2001
+20-238100	2381	Foundation, structure, and building exterior contractors	Private	20-238000	A	A	1990
+20-238101	part 2381	Residential building foundation and exterior contractors	Private	20-238100	C		2001
+20-238102	part 2381	Nonresidential building foundation and exterior contractors	Private	20-238100	C		2001
+20-238110	23811	Poured concrete foundation and structure contractors	Private	20-238100	A	A	1990
+20-238120	23812	Structural steel and precast concrete contractors	Private	20-238100	A	A	1990
+20-238130	23813	Framing contractors	Private	20-238100	A	A	1990
+20-238140	23814	Masonry contractors	Private	20-238100	A	A	1990
+20-238150	23815	Glass and glazing contractors	Private	20-238100	A	A	1990
+20-238160	23816	Roofing contractors	Private	20-238100	A	A	1990
+20-238170	23817	Siding contractors	Private	20-238100	B	B	1990
+20-238190	23819	Other foundation, structure, and building exterior contractors	Private	20-238100	B	B	1990
+20-238200	2382	Building equipment contractors	Private	20-238000	A	A	1990
+20-238201	part 2382	Residential building equipment contractors	Private	20-238200	C		2001
+20-238202	part 2382	Nonresidential building equipment contractors	Private	20-238200	C		2001
+20-238210	23821	Electrical contractors and other wiring installation contractors	Private	20-238200	A	A	1990
+20-238220	23822	Plumbing, heating, and air-conditioning contractors	Private	20-238200	A	A	1990
+20-238290	23829	Other building equipment contractors	Private	20-238200	A	A	1990
+20-238300	2383	Building finishing contractors	Private	20-238000	A	A	1990
+20-238301	part 2383	Residential building finishing contractors	Private	20-238300	C		2001
+20-238302	part 2383	Nonresidential building finishing contractors	Private	20-238300	C		2001
+20-238310	23831	Drywall and insulation contractors	Private	20-238300	A	A	1990
+20-238320	23832	Painting and wall covering contractors	Private	20-238300	A	A	1990
+20-238330	23833	Flooring contractors	Private	20-238300	E	E	1990
+20-238340	23834	Tile and terrazzo contractors	Private	20-238300	E	E	1990
+20-238350	23835	Finish carpentry contractors	Private	20-238300	A	A	1990
+20-238390	23839	Other building finishing contractors	Private	20-238300	E	E	1990
+20-238900	2389	Other specialty trade contractors	Private	20-238000	A	A	1990
+20-238901	part 2389	Other residential trade contractors	Private	20-238900	C		2001
+20-238902	part 2389	Other nonresidential trade contractors	Private	20-238900	C		2001
+20-238910	23891	Site preparation contractors	Private	20-238900	A	A	1990
+20-238990	23899	All other specialty trade contractors	Private	20-238900	A	A	1990
+30-000000		Manufacturing	Private	06-000000	AO	AO	1939
+31-000000		Durable goods	Private	30-000000	AO	AO	1939
+31-321000	321	Wood product manufacturing	Private	31-000000	AO	AO	1990
+31-321100	3211	Sawmills and wood preservation	Private	31-321000	A	A	1990
+31-321200	3212	Veneer, plywood, and engineered wood product manufacturing	Private	31-321000	E	E	1990
+31-321900	3219	Other wood product manufacturing	Private	31-321000	ET	ET	1990
+31-321910	32191	Millwork	Private	31-321900	AT	AT	1990
+31-321911	321911	Wood window and door manufacturing	Private	31-321910	C	C	1990
+31-321918	321912	Cut stock, resawing lumber, planing, and other millwork (including flooring)	Private	31-321910	C	C	1990
+31-321918	321918	Cut stock, resawing lumber, planing, and other millwork (including flooring)	Private	31-321910	C	C	1990
+31-321920	32192	Wood container and pallet manufacturing	Private	31-321900	E	E	1990
+31-321990	32199	All other wood product manufacturing	Private	31-321900	E	E	1990
+31-327000	327	Nonmetallic mineral product manufacturing	Private	31-000000	AO	AO	1951
+31-327100	3271	Clay product and refractory manufacturing	Private	31-327000	C	C	1990
+31-327200	3272	Glass and glass product manufacturing	Private	31-327000	C	C	1990
+31-327300	3273	Cement and concrete product manufacturing	Private	31-327000	AO	AO	1990
+31-327320	32732	Ready-mix concrete manufacturing	Private	31-327300	E	E	1972
+31-327390	32731	Cement and concrete pipe, brick, block, and other concrete product manufacturing	Private	31-327300	E	E	1990
+31-327390	32733	Cement and concrete pipe, brick, block, and other concrete product manufacturing	Private	31-327300	E	E	1990
+31-327390	32739	Cement and concrete pipe, brick, block, and other concrete product manufacturing	Private	31-327300	E	E	1990
+31-327900	3274	Lime, gypsum, and other nonmetallic mineral product manufacturing	Private	31-327000	G	G	1990
+31-327900	3279	Lime, gypsum, and other nonmetallic mineral product manufacturing	Private	31-327000	G	G	1990
+31-331000	331	Primary metal manufacturing	Private	31-000000	AO	AO	1990
+31-331100	3311	Iron and steel mills and ferroalloy manufacturing	Private	31-331000	C	C	1990
+31-331200	3312	Steel product manufacturing from purchased steel	Private	31-331000	C	C	1990
+31-331400	3313	Alumina, aluminum, and other nonferrous metal production and processing	Private	31-331000	C	C	1990
+31-331400	3314	Alumina, aluminum, and other nonferrous metal production and processing	Private	31-331000	C	C	1990
+31-331500	3315	Foundries	Private	31-331000	AO	AO	1990
+31-331510	33151	Ferrous metal foundries	Private	31-331500	C	C	1990
+31-331520	33152	Nonferrous metal foundries	Private	31-331500	C	C	1990
+31-332000	332	Fabricated metal product manufacturing	Private	31-000000	AO	AO	1990
+31-332100	3321	Forging and stamping	Private	31-332000	AT	AT	1990
+31-332300	3323	Architectural and structural metals manufacturing	Private	31-332000	AO	AO	1990
+31-332310	33231	Plate work and fabricated structural product manufacturing	Private	31-332300	AO	AO	1990
+31-332312	332312	Fabricated structural metal manufacturing	Private	31-332310	AO	AO	1990
+31-332313	332311	Plate work and prefabricated metal building and component manufacturing	Private	31-332310	C	C	1990
+31-332313	332313	Plate work and prefabricated metal building and component manufacturing	Private	31-332310	C	C	1990
+31-332320	33232	Ornamental and architectural metal products manufacturing	Private	31-332300	AO	AO	1990
+31-332321	332321	Metal window and door manufacturing	Private	31-332320	C	C	1990
+31-332322	332322	Sheet metal work manufacturing	Private	31-332320	AO	AO	1990
+31-332323	332323	Ornamental and architectural metal work manufacturing	Private	31-332320	C	C	1990
+31-332400	3324	Boiler, tank, and shipping container manufacturing	Private	31-332000	ET	ET	1990
+31-332600	3325	Hardware, spring, and wire product manufacturing	Private	31-332000	C	C	1990
+31-332600	3326	Hardware, spring, and wire product manufacturing	Private	31-332000	C	C	1990
+31-332700	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	Private	31-332000	AO	AO	1990
+31-332710	33271	Machine shops	Private	31-332700	E	E	1990
+31-332720	33272	Turned product and screw, nut, and bolt manufacturing	Private	31-332700	E	E	1958
+31-332800	3328	Coating, engraving, heat treating, and allied activities	Private	31-332000	AO	AO	1990
+31-332812	332811	Metal heat treating, coating, engraving (except jewelry and silverware), and allied services to manufacturers	Private	31-332800	E	E	1990
+31-332812	332812	Metal heat treating, coating, engraving (except jewelry and silverware), and allied services to manufacturers	Private	31-332800	E	E	1990
+31-332813	332813	Electroplating, plating, polishing, anodizing, and coloring	Private	31-332800	E	E	1990
+31-332900	3329	Cutlery, handtool, and other fabricated metal product manufacturing	Private	31-332000	AO	AO	1990
+31-332910	33291	Metal valve manufacturing	Private	31-332900	B	B	1990
+31-332990	33299	Cutlery, handtool, and all other fabricated metal product manufacturing	Private	31-332900	B	B	1990
+31-332994	332992	Small arms, ammunition, and other ordnance and ordnance accessories manufacturing	Private	31-332990	C	C	1990
+31-332994	332993	Small arms, ammunition, and other ordnance and ordnance accessories manufacturing	Private	31-332990	C	C	1990
+31-332994	332994	Small arms, ammunition, and other ordnance and ordnance accessories manufacturing	Private	31-332990	C	C	1990
+31-332999	3322	Cutlery, handtool, ball and roller bearing, fabricated pipe, pipe fitting, and all other fabricated metal product manufacturing	Private	31-332990	C	C	1990
+31-332999	332991	Cutlery, handtool, ball and roller bearing, fabricated pipe, pipe fitting, and all other fabricated metal product manufacturing	Private	31-332990	C	C	1990
+31-332999	332996	Cutlery, handtool, ball and roller bearing, fabricated pipe, pipe fitting, and all other fabricated metal product manufacturing	Private	31-332990	C	C	1990
+31-332999	332999	Cutlery, handtool, ball and roller bearing, fabricated pipe, pipe fitting, and all other fabricated metal product manufacturing	Private	31-332990	C	C	1990
+31-333000	333	Machinery manufacturing	Private	31-000000	AO	AO	1990
+31-333100	3331	Agriculture, construction, and mining machinery manufacturing	Private	31-333000	AO	AO	1990
+31-333110	33311	Agricultural implement manufacturing	Private	31-333100	C	C	1990
+31-333120	33312	Construction machinery manufacturing	Private	31-333100	C	C	1990
+31-333130	33313	Mining and oil and gas field machinery manufacturing	Private	31-333100	C	C	1990
+31-333200	3332	Industrial machinery manufacturing	Private	31-333000	AO	AO	1972
+31-333248	333248	All other industrial machinery manufacturing	Private	31-333200	AT	AT	1972
+31-333300	3333	Commercial and service industry machinery manufacturing	Private	31-333000	AT	AT	1990
+31-333400	3334	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	Private	31-333000	E	E	1990
+31-333415	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	Private	31-333400	C	C	1990
+31-333500	3335	Metalworking machinery manufacturing	Private	31-333000	AO	AO	1990
+31-333514	333514	Special die and tool, die set, jig, and fixture manufacturing	Private	31-333500	AT	AT	1990
+31-333517	333517	Machine tool manufacturing	Private	31-333500	B	B	1990
+31-333519	333511	Industrial mold, cutting tool and machine tool accessory, rolling mill, and other metalworking machinery manufacturing	Private	31-333500	C	C	1990
+31-333519	333515	Industrial mold, cutting tool and machine tool accessory, rolling mill, and other metalworking machinery manufacturing	Private	31-333500	C	C	1990
+31-333519	333519	Industrial mold, cutting tool and machine tool accessory, rolling mill, and other metalworking machinery manufacturing	Private	31-333500	C	C	1990
+31-333600	3336	Engine, turbine, and power transmission equipment manufacturing	Private	31-333000	AT	AT	1990
+31-333900	3339	Other general purpose machinery manufacturing	Private	31-333000	E	E	1990
+31-333910	33391	Pump and compressor manufacturing	Private	31-333900	C	C	1990
+31-333920	33392	Material handling equipment manufacturing	Private	31-333900	E	E	1990
+31-333990	33399	All other general purpose machinery manufacturing	Private	31-333900	C	C	1990
+31-334000	334	Computer and electronic product manufacturing	Private	31-000000	AO	AO	1990
+31-334100	3341	Computer and peripheral equipment manufacturing	Private	31-334000	C	C	1990
+31-334111	334111	Electronic computer manufacturing	Private	31-334100	C	C	1990
+31-334118	334112	Computer storage device, terminal, and other peripheral equipment manufacturing	Private	31-334100	C	C	1990
+31-334118	334118	Computer storage device, terminal, and other peripheral equipment manufacturing	Private	31-334100	C	C	1990
+31-334200	3342	Communications equipment manufacturing	Private	31-334000	A	A	1990
+31-334220	33422	Radio and television broadcasting and wireless communications equipment manufacturing	Private	31-334200	C	C	1990
+31-334400	3344	Semiconductor and other electronic component manufacturing	Private	31-334000	AO	AO	1985
+31-334413	334413	Semiconductor and related device manufacturing	Private	31-334400	E	E	1972
+31-334418	334412	Bare printed circuit board and printed electronic circuit assembly manufacturing	Private	31-334400	C	C	1990
+31-334418	334418	Bare printed circuit board and printed electronic circuit assembly manufacturing	Private	31-334400	C	C	1990
+31-334419	334416	Capacitor, resistor, coil, transformer, other inductor, electronic connector, and other electronic component manufacturing	Private	31-334400	AT	AT	1990
+31-334419	334417	Capacitor, resistor, coil, transformer, other inductor, electronic connector, and other electronic component manufacturing	Private	31-334400	AT	AT	1990
+31-334419	334419	Capacitor, resistor, coil, transformer, other inductor, electronic connector, and other electronic component manufacturing	Private	31-334400	AT	AT	1990
+31-334500	3345	Navigational, measuring, electromedical, and control instruments manufacturing	Private	31-334000	AO	AO	1990
+31-334510	334510	Electromedical and electrotherapeutic apparatus manufacturing	Private	31-334500	C	C	1990
+31-334511	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	Private	31-334510	C	C	1985
+31-334513	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	Private	31-334510	C	C	1972
+31-334515	334515	Instrument manufacturing for measuring and testing electricity and electrical signals	Private	31-334510	C	C	1972
+31-334519	334512	Miscellaneous electronic instruments manufacturing	Private	31-334510	C	C	1990
+31-334519	334514	Miscellaneous electronic instruments manufacturing	Private	31-334510	C	C	1990
+31-334519	334516	Miscellaneous electronic instruments manufacturing	Private	31-334510	C	C	1990
+31-334519	334517	Miscellaneous electronic instruments manufacturing	Private	31-334510	C	C	1990
+31-334519	334519	Miscellaneous electronic instruments manufacturing	Private	31-334510	C	C	1990
+31-334600	3343	Manufacturing and reproducing magnetic and optical media and audio and video equipment manufacturing	Private	31-334000	C	C	1990
+31-334600	3346	Manufacturing and reproducing magnetic and optical media and audio and video equipment manufacturing	Private	31-334000	C	C	1990
+31-335000	335	Electrical equipment, appliance, and component manufacturing	Private	31-000000	AO	AO	1990
+31-335100	3351	Electric lighting equipment manufacturing	Private	31-335000	C	C	1990
+31-335200	3352	Household appliance manufacturing	Private	31-335000	C	C	1972
+31-335300	3353	Electrical equipment manufacturing	Private	31-335000	AT	AT	1990
+31-335311	335311	Power, distribution, and specialty transformer manufacturing	Private	31-335300	C	C	1990
+31-335314	335312	Motor, generator, switchgear and switchboard apparatus, and relay and industrial control manufacturing	Private	31-335300	C	C	1990
+31-335314	335313	Motor, generator, switchgear and switchboard apparatus, and relay and industrial control manufacturing	Private	31-335300	C	C	1990
+31-335314	335314	Motor, generator, switchgear and switchboard apparatus, and relay and industrial control manufacturing	Private	31-335300	C	C	1990
+31-335900	3359	Other electrical equipment and component manufacturing	Private	31-335000	AT	AT	1990
+31-335910	33591	Battery manufacturing	Private	31-335900	C	C	1972
+31-335990	33592	Wiring device, communication and energy wire and cable, and all other electrical equipment and component manufacturing	Private	31-335900	C	C	1990
+31-335990	33593	Wiring device, communication and energy wire and cable, and all other electrical equipment and component manufacturing	Private	31-335900	C	C	1990
+31-335990	33599	Wiring device, communication and energy wire and cable, and all other electrical equipment and component manufacturing	Private	31-335900	C	C	1990
+31-336000	336	Transportation equipment manufacturing	Private	31-000000	AO	AO	1990
+31-336001	3361	Motor vehicles and parts	Private	31-336000	AO	AO	1990
+31-336001	3362	Motor vehicles and parts	Private	31-336000	AO	AO	1990
+31-336001	3363	Motor vehicles and parts	Private	31-336000	AO	AO	1990
+31-336100	3361	Motor vehicle manufacturing	Private	31-336000	AO	AO	1990
+31-336200	3362	Motor vehicle body and trailer manufacturing	Private	31-336000	ET	ET	1990
+31-336300	3363	Motor vehicle parts manufacturing	Private	31-336000	AO	AO	1990
+31-336310	33631	Motor vehicle gasoline engine and engine parts manufacturing	Private	31-336300	C	C	1990
+31-336320	33632	Motor vehicle electrical and electronic equipment manufacturing	Private	31-336300	ET	ET	1990
+31-336350	33635	Motor vehicle transmission and power train parts manufacturing	Private	31-336300	C	C	1990
+31-336370	33637	Motor vehicle metal stamping	Private	31-336300	C	C	1972
+31-336390	33633	Motor vehicle steering and suspension components, except spring; brake system, seating, interior trim, and other motor vehicle parts manufacturing	Private	31-336300	C	C	1990
+31-336390	33634	Motor vehicle steering and suspension components, except spring; brake system, seating, interior trim, and other motor vehicle parts manufacturing	Private	31-336300	C	C	1990
+31-336390	33636	Motor vehicle steering and suspension components, except spring; brake system, seating, interior trim, and other motor vehicle parts manufacturing	Private	31-336300	C	C	1990
+31-336390	33639	Motor vehicle steering and suspension components, except spring; brake system, seating, interior trim, and other motor vehicle parts manufacturing	Private	31-336300	C	C	1990
+31-336400	3364	Aerospace product and parts manufacturing	Private	31-336000	AO	AO	1990
+31-336411	336411	Aircraft manufacturing	Private	31-336400	G	G	1990
+31-336412	336412	Aircraft engine and engine parts manufacturing	Private	31-336400	C	C	1982
+31-336413	336413	Other aircraft parts and auxiliary equipment manufacturing	Private	31-336400	C	C	1990
+31-336419	336414	Guided missile; space vehicle; and guided missile and space vehicle propulsion unit, parts, and auxiliary equipment manufacturing	Private	31-336400	C	C	1990
+31-336419	336415	Guided missile; space vehicle; and guided missile and space vehicle propulsion unit, parts, and auxiliary equipment manufacturing	Private	31-336400	C	C	1990
+31-336419	336419	Guided missile; space vehicle; and guided missile and space vehicle propulsion unit, parts, and auxiliary equipment manufacturing	Private	31-336400	C	C	1990
+31-336600	3366	Ship and boat building	Private	31-336000	C	C	1939
+31-336611	336611	Ship building and repairing	Private	31-336600	C	C	1939
+31-336612	336612	Boat building	Private	31-336600	C	C	1990
+31-336900	3365	Railroad rolling stock and other transportation equipment manufacturing	Private	31-336000	C	C	1990
+31-336900	3369	Railroad rolling stock and other transportation equipment manufacturing	Private	31-336000	C	C	1990
+31-337000	337	Furniture and related product manufacturing	Private	31-000000	AO	AO	1990
+31-337100	3371	Household and institutional furniture and kitchen cabinet manufacturing	Private	31-337000	AO	AO	1990
+31-337110	33711	Wood kitchen cabinet and countertop manufacturing	Private	31-337100	AO	AO	1990
+31-337120	33712	Household and institutional furniture manufacturing	Private	31-337100	AO	AO	1990
+31-337121	337121	Upholstered household furniture manufacturing	Private	31-337120	C	C	1990
+31-337127	337122	Nonupholstered household furniture and institutional furniture manufacturing	Private	31-337120	C	C	1990
+31-337127	337126	Nonupholstered household furniture and institutional furniture manufacturing	Private	31-337120	C	C	1990
+31-337127	337127	Nonupholstered household furniture and institutional furniture manufacturing	Private	31-337120	C	C	1990
+31-337200	3372	Office furniture (including fixtures) and other furniture related product manufacturing	Private	31-337000	C	C	1990
+31-337214	337211	Office furniture and custom architectural woodwork and millwork manufacturing	Private	31-337200	C	C	1990
+31-337214	337212	Office furniture and custom architectural woodwork and millwork manufacturing	Private	31-337200	C	C	1990
+31-337214	337214	Office furniture and custom architectural woodwork and millwork manufacturing	Private	31-337200	C	C	1990
+31-337215	337215	Showcase, partition, shelving, locker, and other furniture related product manufacturing	Private	31-337200	C	C	1990
+31-337215	3379	Showcase, partition, shelving, locker, and other furniture related product manufacturing	Private	31-337200	C	C	1990
+31-339000	339	Miscellaneous manufacturing	Private	31-000000	AO	AO	1990
+31-339100	3391	Medical equipment and supplies manufacturing	Private	31-339000	AO	AO	1990
+31-339112	339112	Surgical and medical instrument manufacturing	Private	31-339100	C	C	1990
+31-339113	339113	Surgical appliance and supplies manufacturing	Private	31-339100	E	E	1990
+31-339116	339116	Dental laboratories	Private	31-339100	C	C	1990
+31-339900	3399	Other miscellaneous manufacturing	Private	31-339000	AO	AO	1990
+31-339920	33991	Jewelry, silverware, and sporting and athletic goods manufacturing	Private	31-339900	C	C	1990
+31-339920	33992	Jewelry, silverware, and sporting and athletic goods manufacturing	Private	31-339900	C	C	1990
+31-339950	33995	Sign manufacturing	Private	31-339900	AT	AT	1990
+31-339990	33993	Doll, toy, game, office supplies (except paper), and all other miscellaneous manufacturing	Private	31-339900	AO	AO	1990
+31-339990	33994	Doll, toy, game, office supplies (except paper), and all other miscellaneous manufacturing	Private	31-339900	AO	AO	1990
+31-339990	33999	Doll, toy, game, office supplies (except paper), and all other miscellaneous manufacturing	Private	31-339900	AO	AO	1990
+32-000000		Nondurable goods	Private	30-000000	AO	AO	1939
+32-311000	311	Food manufacturing	Private	32-000000	AO	AO	1990
+32-311100	3111	Animal food manufacturing	Private	32-311000	C	C	1990
+32-311200	3112	Grain and oilseed milling	Private	32-311000	C	C	1990
+32-311300	3113	Sugar and confectionery product manufacturing	Private	32-311000	E	E	1990
+32-311350	31135	Chocolate and confectionery manufacturing	Private	32-311300	C	C	1990
+32-311400	3114	Fruit and vegetable preserving and specialty food manufacturing	Private	32-311000	AO	AO	1990
+32-311410	31141	Frozen food manufacturing	Private	32-311400	ET	ET	1990
+32-311411	311411	Frozen fruit, juice, and vegetable manufacturing	Private	32-311410	C	C	1972
+32-311412	311412	Frozen specialty food manufacturing	Private	32-311410	C	C	1990
+32-311420	31142	Fruit and vegetable canning, pickling, and drying	Private	32-311400	ET	ET	1990
+32-311500	3115	Dairy product manufacturing	Private	32-311000	AO	AO	1958
+32-311511	311511	Fluid milk manufacturing	Private	32-311500	C	C	1982
+32-311600	3116	Animal slaughtering and processing	Private	32-311000	AO	AO	1976
+32-311611	311611	Animal, except poultry, slaughtering	Private	32-311600	C	C	1990
+32-311613	311612	Meat processed from carcasses, rendering, and meat byproduct processing	Private	32-311600	C	C	1990
+32-311613	311613	Meat processed from carcasses, rendering, and meat byproduct processing	Private	32-311600	C	C	1990
+32-311615	311615	Poultry processing	Private	32-311600	E	E	1972
+32-311700	3117	Seafood product preparation and packaging	Private	32-311000	E	E	1990
+32-311800	3118	Bakeries and tortilla manufacturing	Private	32-311000	AO	AO	1990
+32-311810	31181	Bread and bakery product manufacturing	Private	32-311800	C	C	1990
+32-311811	311811	Retail bakeries	Private	32-311810	C	C	1990
+32-311813	311812	Commercial bakeries and frozen cakes, pies, and other pastries manufacturing	Private	32-311810	E	E	1990
+32-311813	311813	Commercial bakeries and frozen cakes, pies, and other pastries manufacturing	Private	32-311810	E	E	1990
+32-311830	31182	Cookie, cracker, pasta, and tortilla manufacturing	Private	32-311800	C	C	1990
+32-311830	31183	Cookie, cracker, pasta, and tortilla manufacturing	Private	32-311800	C	C	1990
+32-311900	3119	Other food manufacturing	Private	32-311000	ET	ET	1990
+32-311910	31191	Snack food manufacturing	Private	32-311900	C	C	1990
+32-311990	31192	Coffee, tea, flavoring syrup and concentrate, seasoning, dressing, and other food manufacturing	Private	32-311900	C	C	1990
+32-311990	31193	Coffee, tea, flavoring syrup and concentrate, seasoning, dressing, and other food manufacturing	Private	32-311900	C	C	1990
+32-311990	31194	Coffee, tea, flavoring syrup and concentrate, seasoning, dressing, and other food manufacturing	Private	32-311900	C	C	1990
+32-311990	31199	Coffee, tea, flavoring syrup and concentrate, seasoning, dressing, and other food manufacturing	Private	32-311900	C	C	1990
+32-313000	313	Textile mills	Private	32-000000	ET	ET	1990
+32-313200	3132	Fabric mills	Private	32-313000	C	C	1990
+32-314000	314	Textile product mills	Private	32-000000	AT	AT	1990
+32-314100	3141	Textile furnishings mills	Private	32-314000	C	C	1990
+32-314900	3149	Other textile product mills	Private	32-314000	C	C	1990
+32-315000	315	Apparel manufacturing	Private	32-000000	ET	ET	1990
+32-315250	31525	Cut and sew apparel manufacturing (except contractors)	Private	32-315000	C	C	1990
+32-322000	322	Paper manufacturing	Private	32-000000	AO	AO	1990
+32-322100	3221	Pulp, paper, and paperboard mills	Private	32-322000	C	C	1990
+32-322200	3222	Converted paper product manufacturing	Private	32-322000	C	C	1990
+32-322210	32221	Paperboard container manufacturing	Private	32-322200	ET	ET	1990
+32-322220	32222	Paper bag and coated and treated paper manufacturing	Private	32-322200	C	C	1990
+32-322290	32223	Stationery and other converted paper products	Private	32-322200	C	C	1990
+32-322290	32229	Stationery and other converted paper products	Private	32-322200	C	C	1990
+32-323000	323	Printing and related support activities	Private	32-000000	AO	AO	1990
+32-323113	323113	Commercial screen printing	Private	32-323000	C	C	1990
+32-323117	323111	Commercial and book printing (except screen) and support activities for printing	Private	32-323000	C	C	1990
+32-323117	323117	Commercial and book printing (except screen) and support activities for printing	Private	32-323000	C	C	1990
+32-323117	32312	Commercial and book printing (except screen) and support activities for printing	Private	32-323000	C	C	1990
+32-324000	324	Petroleum and coal products manufacturing	Private	32-000000	B	B	1990
+32-324110	32411	Petroleum refineries	Private	32-324000	C	C	1947
+32-324190	32412	Asphalt paving, roofing, saturated materials, and other petroleum and coal products manufacturing	Private	32-324000	C	C	1990
+32-324190	32419	Asphalt paving, roofing, saturated materials, and other petroleum and coal products manufacturing	Private	32-324000	C	C	1990
+32-325000	325	Chemical manufacturing	Private	32-000000	AO	AO	1990
+32-325100	3251	Basic chemical manufacturing	Private	32-325000	AT	AT	1990
+32-325180	32511	Petrochemical, industrial gas, synthetic dye, pigment, and other basic inorganic chemical manufacturing	Private	32-325100	C	C	1990
+32-325180	32512	Petrochemical, industrial gas, synthetic dye, pigment, and other basic inorganic chemical manufacturing	Private	32-325100	C	C	1990
+32-325180	32513	Petrochemical, industrial gas, synthetic dye, pigment, and other basic inorganic chemical manufacturing	Private	32-325100	C	C	1990
+32-325180	32518	Petrochemical, industrial gas, synthetic dye, pigment, and other basic inorganic chemical manufacturing	Private	32-325100	C	C	1990
+32-325190	32519	Other basic organic chemical manufacturing	Private	32-325100	C	C	1990
+32-325200	3252	Resin, synthetic rubber, and artificial and synthetic fibers and filaments manufacturing	Private	32-325000	C	C	1990
+32-325211	325211	Plastics material and resin manufacturing	Private	32-325200	C	C	1990
+32-325300	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	Private	32-325000	C	C	1972
+32-325400	3254	Pharmaceutical and medicine manufacturing	Private	32-325000	AO	AO	1990
+32-325412	325412	Pharmaceutical preparation manufacturing	Private	32-325400	C	C	1990
+32-325414	325411	Medicinal, botanical, in-vitro diagnostic substance, and biological product manufacturing	Private	32-325400	C	C	1990
+32-325414	325413	Medicinal, botanical, in-vitro diagnostic substance, and biological product manufacturing	Private	32-325400	C	C	1990
+32-325414	325414	Medicinal, botanical, in-vitro diagnostic substance, and biological product manufacturing	Private	32-325400	C	C	1990
+32-325500	3255	Paint, coating, and adhesive manufacturing	Private	32-325000	C	C	1990
+32-325600	3256	Soap, cleaning compound, and toilet preparation manufacturing	Private	32-325000	A	A	1990
+32-325610	32561	Soap and cleaning compound manufacturing	Private	32-325600	C	C	1990
+32-325620	32562	Toilet preparation manufacturing	Private	32-325600	C	C	1990
+32-325900	3259	Other chemical product and preparation manufacturing	Private	32-325000	E	E	1990
+32-326000	326	Plastics and rubber products manufacturing	Private	32-000000	AO	AO	1990
+32-326100	3261	Plastics product manufacturing	Private	32-326000	B	B	1990
+32-326110	32611	Plastics packaging materials and unlaminated film and sheet manufacturing	Private	32-326100	C	C	1990
+32-326120	32612	Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing	Private	32-326100	C	C	1990
+32-326150	32614	Polystyrene, urethane, and other foam product manufacturing	Private	32-326100	C	C	1990
+32-326150	32615	Polystyrene, urethane, and other foam product manufacturing	Private	32-326100	C	C	1990
+32-326160	32613	Laminated plastics plate, sheet (except packaging), shape, and plastics bottle manufacturing	Private	32-326100	C	C	1990
+32-326160	32616	Laminated plastics plate, sheet (except packaging), shape, and plastics bottle manufacturing	Private	32-326100	C	C	1990
+32-326190	32619	Other plastics product manufacturing	Private	32-326100	AT	AT	1990
+32-326200	3262	Rubber product manufacturing	Private	32-326000	B	B	1990
+32-326210	32621	Tire manufacturing	Private	32-326200	C	C	1990
+32-326290	32622	Rubber and plastics hoses, belting, and other rubber product manufacturing	Private	32-326200	C	C	1990
+32-326290	32629	Rubber and plastics hoses, belting, and other rubber product manufacturing	Private	32-326200	C	C	1990
+32-329000	312	Beverage, tobacco, and leather and allied product manufacturing	Private	32-000000	B	B	1990
+32-329000	316	Beverage, tobacco, and leather and allied product manufacturing	Private	32-000000	B	B	1990
+32-329100	3121	Beverage manufacturing	Private	32-329000	C	C	1990
+32-329110	31211	Soft drinks and ice	Private	32-329100	C	C	1990
+32-329111	312111	Soft drinks	Private	32-329110	C	C	1990
+32-329140	31212	Breweries, wineries, and distilleries	Private	32-329100	C	C	1990
+32-329140	31213	Breweries, wineries, and distilleries	Private	32-329100	C	C	1990
+32-329140	31214	Breweries, wineries, and distilleries	Private	32-329100	C	C	1990
+32-329900	3292	Other miscellaneous nondurable goods manufacturing	Private	32-329000	C	C	1990
+32-329900	3299	Other miscellaneous nondurable goods manufacturing	Private	32-329000	C	C	1990
+40-000000		Trade, transportation, and utilities	Private	08-000000	A	A	1939
+41-420000	42	Wholesale trade	Private	40-000000	A	A	1939
+41-423000	423	Merchant wholesalers, durable goods	Private	41-420000	A	A	1990
+41-423100	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	Private	41-423000	A	A	1990
+41-423110	42311	Automobile and other motor vehicle merchant wholesalers	Private	41-423100	A	A	1990
+41-423120	42312	Motor vehicle supplies and new parts merchant wholesalers	Private	41-423100	A	A	1990
+41-423200	4232	Furniture and home furnishing merchant wholesalers	Private	41-423000	A	A	1990
+41-423210	42321	Furniture merchant wholesalers	Private	41-423200	C	C	1990
+41-423220	42322	Home furnishing merchant wholesalers	Private	41-423200	C	C	1990
+41-423300	4233	Lumber and other construction materials merchant wholesalers	Private	41-423000	A	A	1990
+41-423310	42331	Lumber, plywood, millwork, and wood panel merchant wholesalers	Private	41-423300	A	A	1990
+41-423320	42332	Brick, stone, and related construction material merchant wholesalers	Private	41-423300	B	B	1990
+41-423390	42333	Roofing, siding, insulation, and other construction material merchant wholesalers	Private	41-423300	B	B	1990
+41-423390	42339	Roofing, siding, insulation, and other construction material merchant wholesalers	Private	41-423300	B	B	1990
+41-423400	4234	Professional and commercial equipment and supplies merchant wholesalers	Private	41-423000	A	A	1990
+41-423420	42342	Office equipment merchant wholesalers	Private	41-423400	B	B	1990
+41-423430	42343	Computer and computer peripheral equipment and software merchant wholesalers	Private	41-423400	A	A	1990
+41-423450	42345	Medical, dental, and hospital equipment and supplies merchant wholesalers	Private	41-423400	A	A	1990
+41-423490	42341	Ophthalmic goods and photographic, commercial, and professional equipment and supplies merchant wholesalers	Private	41-423400	B	B	1990
+41-423490	42344	Ophthalmic goods and photographic, commercial, and professional equipment and supplies merchant wholesalers	Private	41-423400	B	B	1990
+41-423490	42346	Ophthalmic goods and photographic, commercial, and professional equipment and supplies merchant wholesalers	Private	41-423400	B	B	1990
+41-423490	42349	Ophthalmic goods and photographic, commercial, and professional equipment and supplies merchant wholesalers	Private	41-423400	B	B	1990
+41-423500	4235	Metal and mineral (except petroleum) merchant wholesalers	Private	41-423000	A	A	1990
+41-423600	4236	Household appliances and electrical and electronic goods merchant wholesalers	Private	41-423000	A	A	1990
+41-423610	42361	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	Private	41-423600	A	A	1990
+41-423690	42362	Household appliances, electric housewares, consumer electronics, and other electronic parts and equipment merchant wholesalers	Private	41-423600	A	A	1990
+41-423690	42369	Household appliances, electric housewares, consumer electronics, and other electronic parts and equipment merchant wholesalers	Private	41-423600	A	A	1990
+41-423700	4237	Hardware, and plumbing and heating equipment and supplies merchant wholesalers	Private	41-423000	A	A	1990
+41-423710	42371	Hardware merchant wholesalers	Private	41-423700	A	A	1990
+41-423720	42372	Plumbing, heating, and hydronics equipment and supplies merchant wholesalers	Private	41-423700	A	A	1990
+41-423740	42373	Warm air heating, air-conditioning, and refrigeration equipment and supplies merchant wholesalers	Private	41-423700	A	A	1990
+41-423740	42374	Warm air heating, air-conditioning, and refrigeration equipment and supplies merchant wholesalers	Private	41-423700	A	A	1990
+41-423800	4238	Machinery, equipment, and supplies merchant wholesalers	Private	41-423000	A	A	1990
+41-423810	42381	Construction and mining (except oil well) machinery and equipment merchant wholesalers	Private	41-423800	A	A	1990
+41-423820	42382	Farm and garden machinery and equipment merchant wholesalers	Private	41-423800	A	A	1990
+41-423830	42383	Industrial machinery and equipment merchant wholesalers	Private	41-423800	A	A	1990
+41-423840	42384	Industrial supplies merchant wholesalers	Private	41-423800	A	A	1990
+41-423850	42385	Service establishment equipment and supplies merchant wholesalers	Private	41-423800	G	G	1990
+41-423860	42386	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	Private	41-423800	G	G	1990
+41-423900	4239	Miscellaneous durable goods merchant wholesalers	Private	41-423000	A	A	1990
+41-423910	42391	Sporting and recreational goods and supplies merchant wholesalers	Private	41-423900	A	A	1990
+41-423930	42393	Recyclable material merchant wholesalers	Private	41-423900	A	A	1982
+41-423940	42394	Jewelry, watch, precious stone, and precious metal merchant wholesalers	Private	41-423900	B	B	1990
+41-423990	42392	Toy and hobby goods and supplies and other miscellaneous durable goods merchant wholesalers	Private	41-423900	B	B	1990
+41-423990	42399	Toy and hobby goods and supplies and other miscellaneous durable goods merchant wholesalers	Private	41-423900	B	B	1990
+41-424000	424	Merchant wholesalers, nondurable goods	Private	41-420000	A	A	1990
+41-424100	4241	Paper and paper product merchant wholesalers	Private	41-424000	A	A	1990
+41-424120	42411	Printing and writing paper, stationery, and office supplies merchant wholesalers	Private	41-424100	C	C	1990
+41-424120	42412	Printing and writing paper, stationery, and office supplies merchant wholesalers	Private	41-424100	C	C	1990
+41-424130	42413	Industrial and personal service paper merchant wholesalers	Private	41-424100	C	C	1990
+41-424200	4242	Drugs and druggists' sundries merchant wholesalers	Private	41-424000	E	E	1990
+41-424300	4243	Apparel, piece goods, and notions merchant wholesalers	Private	41-424000	A	A	1990
+41-424340	42431	Footwear, piece goods, notions, and other dry goods merchant wholesalers	Private	41-424300	C	C	1990
+41-424340	42434	Footwear, piece goods, notions, and other dry goods merchant wholesalers	Private	41-424300	C	C	1990
+41-424350	42435	Clothing and clothing accessories merchant wholesalers	Private	41-424300	E	E	1990
+41-424400	4244	Grocery and related product merchant wholesalers	Private	41-424000	A	A	1990
+41-424410	42441	General line grocery merchant wholesalers	Private	41-424400	A	A	1990
+41-424420	42442	Packaged frozen food merchant wholesalers	Private	41-424400	C	C	1990
+41-424450	42445	Confectionery merchant wholesalers	Private	41-424400	C	C	1990
+41-424470	42443	Dairy product (except dried or canned), poultry product, fish, seafood, meat, and meat product merchant wholesalers	Private	41-424400	C	C	1990
+41-424470	42444	Dairy product (except dried or canned), poultry product, fish, seafood, meat, and meat product merchant wholesalers	Private	41-424400	C	C	1990
+41-424470	42446	Dairy product (except dried or canned), poultry product, fish, seafood, meat, and meat product merchant wholesalers	Private	41-424400	C	C	1990
+41-424470	42447	Dairy product (except dried or canned), poultry product, fish, seafood, meat, and meat product merchant wholesalers	Private	41-424400	C	C	1990
+41-424480	42448	Fresh fruit and vegetable merchant wholesalers	Private	41-424400	E	E	1990
+41-424490	42449	Other grocery and related products merchant wholesalers	Private	41-424400	C	C	1990
+41-424500	4245	Farm product raw material merchant wholesalers	Private	41-424000	E	E	1990
+41-424510	42451	Grain and field bean merchant wholesalers	Private	41-424500	E	E	1990
+41-424600	4246	Chemical and allied products merchant wholesalers	Private	41-424000	A	A	1990
+41-424700	4247	Petroleum and petroleum products merchant wholesalers	Private	41-424000	A	A	1990
+41-424800	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	Private	41-424000	A	A	1990
+41-424810	42481	Beer and ale merchant wholesalers	Private	41-424800	C	C	1990
+41-424820	42482	Wine and distilled alcoholic beverage merchant wholesalers	Private	41-424800	C	C	1990
+41-424900	4249	Miscellaneous nondurable goods merchant wholesalers	Private	41-424000	A	A	1990
+41-424910	42491	Farm supplies merchant wholesalers	Private	41-424900	A	A	1990
+41-424930	42493	Flower, nursery stock, and florists' supplies merchant wholesalers	Private	41-424900	B	B	1990
+41-424990	42492	All other nondurable goods merchant wholesalers	Private	41-424900	C	C	1990
+41-424990	42494	All other nondurable goods merchant wholesalers	Private	41-424900	C	C	1990
+41-424990	42495	All other nondurable goods merchant wholesalers	Private	41-424900	C	C	1990
+41-424990	42499	All other nondurable goods merchant wholesalers	Private	41-424900	C	C	1990
+41-425000	425	Wholesale trade agents and brokers	Private	41-420000	A	A	1990
+42-000000		Retail trade	Private	40-000000	A	A	1939
+42-441000	441	Motor vehicle and parts dealers	Private	42-000000	A	A	1990
+42-441100	4411	Automobile dealers	Private	42-441000	A	A	1972
+42-441110	44111	New car dealers	Private	42-441100	A	A	1972
+42-441120	44112	Used car dealers	Private	42-441100	A	A	1972
+42-441200	4412	Other motor vehicle dealers	Private	42-441000	A	A	1990
+42-441210	44121	Recreational vehicle dealers	Private	42-441200	C	C	1985
+42-441220	44122	Motorcycle, boat, and other motor vehicle dealers	Private	42-441200	C	C	1990
+42-441300	4413	Automotive parts, accessories, and tire retailers	Private	42-441000	A	A	1990
+42-441330	44133	Automotive parts and accessories retailers	Private	42-441300	A	A	1990
+42-441340	44134	Tire dealers	Private	42-441300	A	A	1990
+42-444000	444	Building material and garden equipment and supplies dealers	Private	42-000000	A	A	1990
+42-444100	4441	Building material and supplies dealers	Private	42-444000	A	A	1990
+42-444140	44414	Hardware retailers	Private	42-444100	A	A	1990
+42-444180	44411	Home centers, paint, wallpaper, and other building material dealers	Private	42-444100	A	A	1990
+42-444180	44412	Home centers, paint, wallpaper, and other building material dealers	Private	42-444100	A	A	1990
+42-444180	44418	Home centers, paint, wallpaper, and other building material dealers	Private	42-444100	A	A	1990
+42-444200	4442	Lawn and garden equipment and supplies retailers	Private	42-444000	A	A	1990
+42-444230	44423	Outdoor power equipment retailers	Private	42-444200	B	B	1990
+42-444240	44424	Nursery, garden center, and farm supply retailers	Private	42-444200	B	B	1990
+42-445000	445	Food and beverage retailers	Private	42-000000	A	A	1990
+42-445100	4451	Grocery and convenience retailers	Private	42-445000	A	A	1990
+42-445110	44511	Supermarkets and other grocery retailers (except convenience retailers)	Private	42-445100	A	A	1990
+42-445130	44513	Convenience retailers and vending machine operators	Private	42-445100	A	A	1990
+42-445131	445131	Convenience retailers	Private	42-445130	C	C	1990
+42-445132	445132	Vending machine operators	Private	42-445130	C	C	1982
+42-445200	4452	Specialty food retailers	Private	42-445000	A	A	1990
+42-445230	44523	Fruit and vegetable retailers	Private	42-445200	C	C	1990
+42-445250	44524	Meat, fish, and seafood retailers	Private	42-445200	E	E	1990
+42-445250	44525	Meat, fish, and seafood retailers	Private	42-445200	E	E	1990
+42-445290	44529	Other specialty food retailers	Private	42-445200	C	C	1990
+42-445292	445291	Baked goods, confectionery, and nut retailers	Private	42-445290	C	C	1990
+42-445292	445292	Baked goods, confectionery, and nut retailers	Private	42-445290	C	C	1990
+42-445298	445298	All other specialty food retailers	Private	42-445290	C	C	1990
+42-445300	4453	Beer, wine, and liquor retailers	Private	42-445000	A	A	1990
+42-449000	449	Furniture, home furnishings, electronics, and appliance retailers	Private	42-000000	A	A	1990
+42-449100	4491	Furniture and home furnishings retailers	Private	42-449000	A	A	1990
+42-449110	44911	Furniture retailers	Private	42-449100	A	A	1990
+42-449120	44912	Home furnishings retailers	Private	42-449100	A	A	1990
+42-449121	449121	Floor covering retailers	Private	42-449120	A	A	1990
+42-449129	449122	Window treatment and all other home furnishings retailers	Private	42-449120	A	A	1990
+42-449129	449129	Window treatment and all other home furnishings retailers	Private	42-449120	A	A	1990
+42-449200	4492	Electronics and appliance retailers	Private	42-449000	A	A	1990
+42-455000	455	General merchandise retailers	Private	42-000000	A	A	1990
+42-455100	4551	Department stores	Private	42-455000	C	C	1990
+42-455200	4552	Warehouse clubs, supercenters, and other general merchandise retailers	Private	42-455000	C	C	1990
+42-456000	456	Health and personal care retailers	Private	42-000000	A	A	1990
+42-456110	45611	Pharmacies and drug retailers	Private	42-456000	A	A	1990
+42-456120	45612	Cosmetics, beauty supplies, and perfume retailers	Private	42-456000	A	A	1990
+42-456130	45613	Optical goods retailers	Private	42-456000	E	E	1990
+42-456190	45619	Other health and personal care retailers	Private	42-456000	E	E	1990
+42-456191	456191	Food (health) supplement retailers	Private	42-456190	C	C	1990
+42-456199	456199	All other health and personal care retailers	Private	42-456190	C	C	1990
+42-457000	457	Gasoline stations and fuel dealers	Private	42-000000	A	A	1990
+42-457100	4571	Gasoline stations	Private	42-457000	E	E	1990
+42-457110	45711	Gasoline stations with convenience stores	Private	42-457100	E	E	1990
+42-457120	45712	Other gasoline stations	Private	42-457100	E	E	1990
+42-457200	4572	Fuel dealers	Private	42-457000	E	E	1990
+42-458000	458	Clothing, clothing accessories, shoe, and jewelry retailers	Private	42-000000	A	A	1990
+42-458100	4581	Clothing and clothing accessories retailers	Private	42-458000	A	A	1990
+42-458200	4582	Shoe retailers	Private	42-458000	E	E	1990
+42-458300	4583	Jewelry, luggage, and leather goods retailers	Private	42-458000	E	E	1990
+42-459000	459	Sporting goods, hobby, musical instrument, book, and miscellaneous retailers	Private	42-000000	A	A	1990
+42-459100	4591	Sporting goods, hobby, and musical instrument retailers	Private	42-459000	A	A	1990
+42-459110	45911	Sporting goods retailers	Private	42-459100	A	A	1990
+42-459120	45912	Hobby, toy, and game retailers	Private	42-459100	E	E	1990
+42-459130	45913	Sewing, needlework, and piece goods retailers	Private	42-459100	C	C	1990
+42-459140	45914	Musical instrument and supplies retailers	Private	42-459100	C	C	1990
+42-459200	4592	Book retailers and news dealers	Private	42-459000	E	E	1990
+42-459300	4593	Florists	Private	42-459000	E	E	1990
+42-459400	4594	Office supplies, stationery, and gift retailers	Private	42-459000	A	A	1990
+42-459410	45941	Office supplies and stationery retailers	Private	42-459400	A	A	1990
+42-459420	45942	Gift, novelty, and souvenir retailers	Private	42-459400	A	A	1990
+42-459500	4595	Used merchandise retailers	Private	42-459000	A	A	1990
+42-459900	4599	Other miscellaneous retailers	Private	42-459000	A	A	1990
+42-459910	45991	Pet and pet supplies retailers	Private	42-459900	E	E	1990
+42-459920	45992	Art dealers	Private	42-459900	C	C	1990
+42-459990	45993	Manufactured (mobile) home dealers and all other miscellaneous retailers	Private	42-459900	C	C	1990
+42-459990	45999	Manufactured (mobile) home dealers and all other miscellaneous retailers	Private	42-459900	C	C	1990
+42-459991	459991	Tobacco, electronic cigarette, and other smoking supplies retailers	Private	42-459990	A	A	1990
+43-000000		Transportation and warehousing	Private	40-000000	A	A	1972
+43-481000	481	Air transportation	Private	43-000000	A	A	1990
+43-481100	4811	Scheduled air transportation	Private	43-481000	C	C	1990
+43-481200	4812	Nonscheduled air transportation	Private	43-481000	C	C	1990
+43-482000	482	Rail transportation	Private	43-000000	C	C	1947
+43-483000	483	Water transportation	Private	43-000000	B	B	1990
+43-484000	484	Truck transportation	Private	43-000000	A	A	1990
+43-484100	4841	General freight trucking	Private	43-484000	A	A	1990
+43-484110	48411	General freight trucking, local	Private	43-484100	A	A	1990
+43-484120	48412	General freight trucking, long-distance	Private	43-484100	A	A	1990
+43-484121	484121	General freight trucking, long-distance, truckload	Private	43-484120	E	E	1990
+43-484122	484122	General freight trucking, long-distance, less than truckload	Private	43-484120	E	E	1990
+43-484200	4842	Specialized freight trucking	Private	43-484000	A	A	1990
+43-484210	48421	Used household and office goods moving	Private	43-484200	E	E	1990
+43-484220	48422	Specialized freight (except used goods) trucking, local	Private	43-484200	A	A	1990
+43-484230	48423	Specialized freight (except used goods) trucking, long-distance	Private	43-484200	E	E	1990
+43-485000	485	Transit and ground passenger transportation	Private	43-000000	A	A	1990
+43-485300	4853	Taxi and limousine service	Private	43-485000	B	B	1990
+43-485400	4854	School and employee bus transportation	Private	43-485000	A	A	1972
+43-485500	4851	Urban transit systems and interurban, rural, and charter bus transportation	Private	43-485000	C	C	1990
+43-485500	4852	Urban transit systems and interurban, rural, and charter bus transportation	Private	43-485000	C	C	1990
+43-485500	4855	Urban transit systems and interurban, rural, and charter bus transportation	Private	43-485000	C	C	1990
+43-485900	4859	Other transit and ground passenger transportation	Private	43-485000	A	A	1990
+43-486000	486	Pipeline transportation	Private	43-000000	B	B	1990
+43-487000	487	Scenic and sightseeing transportation	Private	43-000000	B	B	1990
+43-488000	488	Support activities for transportation	Private	43-000000	A	A	1990
+43-488100	4881	Support activities for air transportation	Private	43-488000	A	A	1990
+43-488300	4883	Support activities for water transportation	Private	43-488000	E	E	1990
+43-488320	48832	Marine cargo handling	Private	43-488300	C	C	1990
+43-488400	4884	Support activities for road transportation	Private	43-488000	A	A	1990
+43-488500	4885	Freight transportation arrangement	Private	43-488000	A	A	1990
+43-488900	4882	Other support activities for transportation, including rail	Private	43-488000	E	E	1990
+43-488900	4889	Other support activities for transportation, including rail	Private	43-488000	E	E	1990
+43-492000	492	Couriers and messengers	Private	43-000000	A	A	1990
+43-492100	4921	Couriers and express delivery services	Private	43-492000	C	C	1990
+43-492200	49111	Local messengers and delivery and private postal service	Private	43-492000	C	C	1990
+43-492200	49221	Local messengers and delivery and private postal service	Private	43-492000	C	C	1990
+43-493000	493	Warehousing and storage	Private	43-000000	A	A	1990
+43-493110	49311	General warehousing and storage	Private	43-493000	A	A	1990
+43-493120	49312	Refrigerated warehousing and storage	Private	43-493000	E	E	1990
+43-493190	49313	Other warehousing and storage, including farm product	Private	43-493000	E	E	1990
+43-493190	49319	Other warehousing and storage, including farm product	Private	43-493000	E	E	1990
+44-220000	22	Utilities	Private	40-000000	A	A	1964
+44-221100	2211	Electric power generation, transmission and distribution	Private	44-220000	A	A	1990
+44-221110	22111	Electric power generation	Private	44-221100	A	A	1990
+44-221112	221112	Fossil fuel electric power generation	Private	44-221110	A	A	1990
+44-221118	221111	Hydroelectric and nuclear, solar, wind, geothermal, biomass, and other electric power generation	Private	44-221110	C	C	1990
+44-221118	221113	Hydroelectric and nuclear, solar, wind, geothermal, biomass, and other electric power generation	Private	44-221110	C	C	1990
+44-221118	221114	Hydroelectric and nuclear, solar, wind, geothermal, biomass, and other electric power generation	Private	44-221110	C	C	1990
+44-221118	221115	Hydroelectric and nuclear, solar, wind, geothermal, biomass, and other electric power generation	Private	44-221110	C	C	1990
+44-221118	221116	Hydroelectric and nuclear, solar, wind, geothermal, biomass, and other electric power generation	Private	44-221110	C	C	1990
+44-221118	221117	Hydroelectric and nuclear, solar, wind, geothermal, biomass, and other electric power generation	Private	44-221110	C	C	1990
+44-221118	221118	Hydroelectric and nuclear, solar, wind, geothermal, biomass, and other electric power generation	Private	44-221110	C	C	1990
+44-221120	22112	Electric power transmission, control, and distribution	Private	44-221100	A	A	1990
+44-221121	221121	Electric bulk power transmission and control	Private	44-221120	C	C	1990
+44-221122	221122	Electric power distribution	Private	44-221120	C	C	1990
+44-221200	2212	Natural gas distribution	Private	44-220000	E	E	1990
+44-221300	2213	Water, sewage, and other systems	Private	44-220000	E	E	1990
+50-000000		Information	Private	08-000000	A	A	1939
+50-512000	512	Motion picture and sound recording industries	Private	50-000000	A	A	1990
+50-512110	51211	Motion picture and video production	Private	50-512000	C	C	1990
+50-512130	51213	Motion picture and video exhibition	Private	50-512000	C	C	1972
+50-513000	513	Publishing industries	Private	50-000000	A	A	1990
+50-513100	5131	Newspaper, periodical, book, and directory publishers	Private	50-513000	A	A	1990
+50-513110	51311	Newspaper publishers	Private	50-513100	A	A	1990
+50-513120	51312	Periodical publishers	Private	50-513100	A	A	1990
+50-513130	51313	Book publishers	Private	50-513100	E	E	1990
+50-513190	51314	Directory, mailing list, and other publishers	Private	50-513100	C	C	1990
+50-513190	51319	Directory, mailing list, and other publishers	Private	50-513100	C	C	1990
+50-513200	5132	Software publishers	Private	50-513000	A	A	1990
+50-516000	516	Broadcasting and content providers	Private	50-000000	A	A	1990
+50-516100	5161	Radio and television broadcasting stations	Private	50-516000	A	A	1990
+50-516110	51611	Radio broadcasting stations	Private	50-516100	C	C	1982
+50-516120	51612	Television broadcasting stations	Private	50-516100	C	C	1982
+50-516200	5162	Media streaming distribution services, social networks, and other media networks and content providers	Private	50-516000	A	A	1990
+50-517000	517	Telecommunications	Private	50-000000	A	A	1990
+50-517100	5171	Wired and wireless telecommunications (except satellite)	Private	50-517000	A	A	1990
+50-517110	51711	Wired and wireless telecommunications carriers (except satellite)	Private	50-517100	E	E	1990
+50-517111	517111	Wired telecommunications carriers	Private	50-517110	E	E	1990
+50-517112	517112	Wireless telecommunications carriers (except satellite)	Private	50-517110	E	E	1990
+50-517120	51712	Telecommunications resellers	Private	50-517100	E	E	1990
+50-517800	5174	All other telecommunications	Private	50-517000	A	A	1990
+50-517800	5178	All other telecommunications	Private	50-517000	A	A	1990
+50-518000	518	Computing infrastructure providers, data processing, web hosting, and related services	Private	50-000000	A	A	1990
+50-519000	519	Web search portals, libraries, archives, and other information services	Private	50-000000	A	A	1990
+50-519210	51921	Libraries and archives	Private	50-519000	C	C	1990
+50-519290	51929	Web search portals and all other information services	Private	50-519000	C	C	1990
+55-000000		Financial activities	Private	08-000000	A	A	1939
+55-520000	52	Finance and insurance	Private	55-000000	C	C	1990
+55-521000	521	Monetary authorities-central bank	Private	55-520000	C	C	1990
+55-522000	522	Credit intermediation and related activities	Private	55-520000	A	A	1990
+55-522100	5221	Depository credit intermediation	Private	55-522000	A	A	1990
+55-522110	52211	Commercial banking	Private	55-522100	A	A	1990
+55-522130	52213	Credit unions	Private	55-522100	A	A	1990
+55-522180	52218	Savings institutions and other depository credit intermediation	Private	55-522100	A	A	1990
+55-522200	5222	Nondepository credit intermediation	Private	55-522000	A	A	1990
+55-522210	52221	Credit card issuing	Private	55-522200	C	C	1990
+55-522220	52222	Sales financing	Private	55-522200	C	C	1990
+55-522290	52229	Other nondepository credit intermediation	Private	55-522200	E	E	1990
+55-522291	522291	Consumer lending	Private	55-522290	A	A	1990
+55-522292	522292	Real estate credit	Private	55-522290	A	A	1990
+55-522299	522299	International, secondary market, and all other nondepository credit intermediation	Private	55-522290	A	A	1990
+55-522300	5223	Activities related to credit intermediation	Private	55-522000	A	A	1990
+55-522310	52231	Mortgage and nonmortgage loan brokers	Private	55-522300	E	E	1990
+55-522320	52232	Financial transactions processing, reserve, and clearinghouse activities	Private	55-522300	E	E	1990
+55-522390	52239	Other activities related to credit intermediation	Private	55-522300	E	E	1990
+55-523000	523	Securities, commodity contracts, funds, trusts, and other financial vehicles, investments, and related activities	Private	55-520000	A	A	1990
+55-523000	525	Securities, commodity contracts, funds, trusts, and other financial vehicles, investments, and related activities	Private	55-520000	A	A	1990
+55-523150	52315	Investment banking and securities intermediation	Private	55-523000	A	A	1990
+55-523200	5231	Securities and commodity contracts brokerage, intermediation, and exchanges	Private	55-523000	A	A	1990
+55-523200	5232	Securities and commodity contracts brokerage, intermediation, and exchanges	Private	55-523000	A	A	1990
+55-523900	5239	Funds, trusts, and other financial vehicles and investment activities	Private	55-523000	A	A	1990
+55-523900	525	Funds, trusts, and other financial vehicles and investment activities	Private	55-523000	A	A	1990
+55-523910	52391	Miscellaneous intermediation	Private	55-523900	E	E	1990
+55-523940	52394	Portfolio management and investment advice	Private	55-523900	A	A	1990
+55-523990	52399	All other financial investment activities	Private	55-523900	E	E	1990
+55-523990	525	All other financial investment activities	Private	55-523900	E	E	1990
+55-524000	524	Insurance carriers and related activities	Private	55-520000	A	A	1990
+55-524100	5241	Insurance carriers	Private	55-524000	A	A	1990
+55-524110	52411	Direct life, health, and medical insurance carriers	Private	55-524100	C	C	1990
+55-524120	52412	Direct insurance (except life, health, and medical) carriers	Private	55-524100	A	A	1990
+55-524126	524126	Direct property and casualty insurance carriers	Private	55-524120	E	E	1990
+55-524128	524127	Direct title insurance and other direct insurance (except life, health, and medical) carriers	Private	55-524120	E	E	1990
+55-524128	524128	Direct title insurance and other direct insurance (except life, health, and medical) carriers	Private	55-524120	E	E	1990
+55-524130	52413	Reinsurance carriers	Private	55-524100	C	C	1990
+55-524200	5242	Agencies, brokerages, and other insurance related activities	Private	55-524000	A	A	1985
+55-524210	52421	Insurance agencies and brokerages	Private	55-524200	A	A	1990
+55-524290	52429	Other insurance related activities	Private	55-524200	A	A	1990
+55-524291	524291	Claims adjusting	Private	55-524290	E	E	1990
+55-524292	524292	Pharmacy benefit management and other third party administration of insurance and pension funds	Private	55-524290	A	A	1990
+55-524298	524298	All other insurance related activities	Private	55-524290	E	E	1990
+55-530000	53	Real estate and rental and leasing	Private	55-000000	C	C	1990
+55-531000	531	Real estate	Private	55-530000	A	A	1990
+55-531100	5311	Lessors of real estate	Private	55-531000	A	A	1972
+55-531110	53111	Lessors of residential buildings and dwellings	Private	55-531100	A	A	1990
+55-531120	53112	Lessors of nonresidential buildings (except miniwarehouses)	Private	55-531100	A	A	1990
+55-531130	53113	Lessors of miniwarehouses and self-storage units	Private	55-531100	E	E	1990
+55-531190	53119	Lessors of other real estate property	Private	55-531100	E	E	1990
+55-531200	5312	Offices of real estate agents and brokers	Private	55-531000	A	A	1990
+55-531300	5313	Activities related to real estate	Private	55-531000	A	A	1990
+55-531310	53131	Real estate property managers	Private	55-531300	A	A	1990
+55-531311	531311	Residential property managers	Private	55-531310	A	A	1990
+55-531312	531312	Nonresidential property managers	Private	55-531310	A	A	1990
+55-531320	53132	Offices of real estate appraisers	Private	55-531300	E	E	1990
+55-531390	53139	Other activities related to real estate	Private	55-531300	E	E	1990
+55-532000	532	Rental and leasing services	Private	55-530000	A	A	1990
+55-532100	5321	Automotive equipment rental and leasing	Private	55-532000	E	E	1985
+55-532110	53211	Passenger car rental and leasing	Private	55-532100	C	C	1990
+55-532120	53212	Truck, utility trailer, and recreational vehicle (RV) rental and leasing	Private	55-532100	C	C	1990
+55-532200	5322	Consumer goods rental	Private	55-532000	C	C	1990
+55-532283	532283	Home health equipment rental	Private	55-532200	C	C	1990
+55-532300	5323	General rental centers	Private	55-532000	C	C	1990
+55-532400	5324	Commercial and industrial machinery and equipment rental and leasing	Private	55-532000	A	A	1990
+55-532410	53241	Construction, transportation, mining, and forestry machinery and equipment rental and leasing	Private	55-532400	E	E	1990
+55-532490	53242	Office, commercial, and industrial machinery and equipment rental and leasing	Private	55-532400	E	E	1990
+55-532490	53249	Office, commercial, and industrial machinery and equipment rental and leasing	Private	55-532400	E	E	1990
+55-533000	533	Lessors of nonfinancial intangible assets (except copyrighted works)	Private	55-530000	C	C	1990
+60-000000		Professional and business services	Private	08-000000	A	A	1939
+60-540000	54	Professional, scientific, and technical services	Private	60-000000	A	A	1990
+60-541100	5411	Legal services	Private	60-540000	A	A	1990
+60-541110	54111	Offices of lawyers	Private	60-541100	A	A	1990
+60-541190	54119	Other legal services	Private	60-541100	A	A	1990
+60-541200	5412	Accounting, tax preparation, bookkeeping, and payroll services	Private	60-540000	A	A	1990
+60-541211	541211	Offices of certified public accountants	Private	60-541200	A	A	1990
+60-541213	541213	Tax preparation services	Private	60-541200	C	C	1990
+60-541214	541214	Payroll services	Private	60-541200	A	A	1990
+60-541219	541219	Other accounting services	Private	60-541200	C	C	1990
+60-541300	5413	Architectural, engineering, and related services	Private	60-540000	A	A	1990
+60-541310	54131	Architectural services	Private	60-541300	A	A	1990
+60-541320	54132	Landscape architectural services	Private	60-541300	A	A	1990
+60-541340	54133	Engineering and drafting services	Private	60-541300	A	A	1990
+60-541340	54134	Engineering and drafting services	Private	60-541300	A	A	1990
+60-541370	54135	Building inspection, surveying, and mapping services	Private	60-541300	A	A	1990
+60-541370	54136	Building inspection, surveying, and mapping services	Private	60-541300	A	A	1990
+60-541370	54137	Building inspection, surveying, and mapping services	Private	60-541300	A	A	1990
+60-541380	54138	Testing laboratories and services	Private	60-541300	A	A	1990
+60-541400	5414	Specialized design services	Private	60-540000	A	A	1990
+60-541410	54141	Interior design services	Private	60-541400	E	E	1990
+60-541430	54143	Graphic design services	Private	60-541400	A	A	1990
+60-541500	5415	Computer systems design and related services	Private	60-540000	A	A	1990
+60-541511	541511	Custom computer programming services	Private	60-541500	A	A	1990
+60-541512	541512	Computer systems design services	Private	60-541500	A	A	1990
+60-541513	541513	Computer facilities management services	Private	60-541500	B	B	1990
+60-541519	541519	Other computer related services	Private	60-541500	E	E	1990
+60-541600	5416	Management, scientific, and technical consulting services	Private	60-540000	A	A	1990
+60-541610	54161	Management consulting services	Private	60-541600	A	A	1990
+60-541611	541611	Administrative management and general management consulting services	Private	60-541610	A	A	1990
+60-541612	541612	Human resources consulting services	Private	60-541610	C	C	1990
+60-541613	541613	Marketing consulting services	Private	60-541610	A	A	1990
+60-541614	541614	Process, physical distribution, and logistics consulting services	Private	60-541610	A	A	1990
+60-541618	541618	Other management consulting services	Private	60-541610	C	C	1990
+60-541620	54162	Environmental consulting services	Private	60-541600	C	C	1990
+60-541690	54169	Other scientific and technical consulting services	Private	60-541600	C	C	1990
+60-541700	5417	Scientific research and development services	Private	60-540000	A	A	1990
+60-541710	54171	Research and development in the physical, engineering, and life sciences	Private	60-541700	A	A	1990
+60-541713	541713	Research and development in nanotechnology	Private	60-541710	C	C	1990
+60-541714	541714	Research and development in biotechnology, except nanobiotechnology	Private	60-541710	C	C	1990
+60-541715	541715	Research and development in the physical, engineering, and life sciences, except nanotechnology and biotechnology	Private	60-541710	A	A	1990
+60-541720	54172	Research and development in the social sciences and humanities	Private	60-541700	A	A	1990
+60-541800	5418	Advertising, public relations, and related services	Private	60-540000	A	A	1990
+60-541810	54181	Advertising agencies	Private	60-541800	A	A	1990
+60-541820	54182	Public relations agencies	Private	60-541800	A	A	1990
+60-541840	54183	Media buying agencies and media representatives	Private	60-541800	C	C	1990
+60-541840	54184	Media buying agencies and media representatives	Private	60-541800	C	C	1990
+60-541850	54185	Indoor and outdoor display advertising	Private	60-541800	C	C	1990
+60-541860	54186	Direct mail advertising	Private	60-541800	C	C	1990
+60-541890	54187	Advertising material distribution and other services related to advertising	Private	60-541800	A	A	1990
+60-541890	54189	Advertising material distribution and other services related to advertising	Private	60-541800	A	A	1990
+60-541900	5419	Other professional, scientific, and technical services	Private	60-540000	A	A	1990
+60-541910	54191	Marketing research and public opinion polling	Private	60-541900	A	A	1990
+60-541920	54192	Photographic services	Private	60-541900	B	B	1990
+60-541940	54194	Veterinary services	Private	60-541900	A	A	1982
+60-541990	54193	Translation, interpretation, and all other professional, scientific, and technical services	Private	60-541900	B	B	1990
+60-541990	54199	Translation, interpretation, and all other professional, scientific, and technical services	Private	60-541900	B	B	1990
+60-550000	55	Management of companies and enterprises	Private	60-000000	A	A	1990
+60-551112	551111	Offices of bank and other holding companies	Private	60-550000	A	A	1990
+60-551112	551112	Offices of bank and other holding companies	Private	60-550000	A	A	1990
+60-551114	551114	Corporate, subsidiary, and regional managing offices	Private	60-550000	A	A	1990
+60-560000	56	Administrative and support and waste management and remediation services	Private	60-000000	A	A	1990
+60-561000	561	Administrative and support services	Private	60-560000	A	A	1990
+60-561100	5611	Office administrative services	Private	60-561000	A	A	1990
+60-561200	5612	Facilities support services	Private	60-561000	A	A	1990
+60-561300	5613	Employment services	Private	60-561000	A	A	1985
+60-561310	56131	Employment placement agencies and executive search services	Private	60-561300	A	A	1990
+60-561311	561311	Employment placement agencies	Private	60-561310	C	C	1990
+60-561312	561312	Executive search services	Private	60-561310	C	C	1990
+60-561320	56132	Temporary help services	Private	60-561300	A	A	1990
+60-561330	56133	Professional employer organizations	Private	60-561300	A	A	1990
+60-561400	5614	Business support services	Private	60-561000	A	A	1990
+60-561410	56141	Document preparation services	Private	60-561400	E	E	1990
+60-561420	56142	Telephone call centers	Private	60-561400	A	A	1990
+60-561421	561421	Telephone answering services	Private	60-561420	C	C	1990
+60-561422	561422	Telemarketing bureaus and other contact centers	Private	60-561420	C	C	1990
+60-561430	56143	Business service centers	Private	60-561400	E	E	1990
+60-561440	56144	Collection agencies	Private	60-561400	A	A	1990
+60-561490	56145	Repossession, court reporting, stenotype, and other business support services and credit bureaus	Private	60-561400	C	C	1990
+60-561490	56149	Repossession, court reporting, stenotype, and other business support services and credit bureaus	Private	60-561400	C	C	1990
+60-561499	561499	All other business support services	Private	60-561490	C	C	1990
+60-561500	5615	Travel arrangement and reservation services	Private	60-561000	A	A	1990
+60-561510	56151	Travel agencies	Private	60-561500	A	A	1990
+60-561520	56152	Tour operators	Private	60-561500	C	C	1990
+60-561590	56159	Other travel arrangement and reservation services	Private	60-561500	C	C	1990
+60-561600	5616	Investigation and security services	Private	60-561000	A	A	1990
+60-561610	56161	Investigation, guard, and armored car services	Private	60-561600	A	A	1990
+60-561611	561611	Investigation and personal background check services	Private	60-561610	C	C	1990
+60-561613	561612	Security guards, patrol services, and armored car services	Private	60-561610	C	C	1990
+60-561613	561613	Security guards, patrol services, and armored car services	Private	60-561610	C	C	1990
+60-561620	56162	Security systems services	Private	60-561600	A	A	1990
+60-561700	5617	Services to buildings and dwellings	Private	60-561000	A	A	1990
+60-561710	56171	Exterminating and pest control services	Private	60-561700	A	A	1990
+60-561720	56172	Janitorial services	Private	60-561700	A	A	1990
+60-561730	56173	Landscaping services	Private	60-561700	A	A	1990
+60-561740	56174	Carpet and upholstery cleaning services	Private	60-561700	B	B	1990
+60-561790	56179	Other services to buildings and dwellings	Private	60-561700	B	B	1990
+60-561900	5619	Other support services	Private	60-561000	A	A	1990
+60-561910	56191	Packaging and labeling services	Private	60-561900	E	E	1990
+60-561920	56192	Convention and trade show organizers	Private	60-561900	E	E	1990
+60-561990	56199	All other support services	Private	60-561900	A	A	1990
+60-562000	562	Waste management and remediation services	Private	60-560000	A	A	1990
+60-562100	5621	Waste collection	Private	60-562000	A	A	1990
+60-562111	562111	Solid waste collection	Private	60-562100	C	C	1990
+60-562119	562112	Hazardous and other waste collection	Private	60-562100	C	C	1990
+60-562119	562119	Hazardous and other waste collection	Private	60-562100	C	C	1990
+60-562200	5622	Waste treatment and disposal	Private	60-562000	E	E	1990
+60-562211	562211	Hazardous waste treatment and disposal	Private	60-562200	C	C	1990
+60-562219	562212	Solid waste landfill, combustors, and incinerators and other nonhazardous waste treatment and disposal	Private	60-562200	C	C	1990
+60-562219	562213	Solid waste landfill, combustors, and incinerators and other nonhazardous waste treatment and disposal	Private	60-562200	C	C	1990
+60-562219	562219	Solid waste landfill, combustors, and incinerators and other nonhazardous waste treatment and disposal	Private	60-562200	C	C	1990
+60-562900	5629	Remediation and other waste management services	Private	60-562000	E	E	1990
+60-562910	56291	Remediation services	Private	60-562900	C	C	1990
+60-562990	56292	Materials recovery facilities and other waste management services	Private	60-562900	C	C	1990
+60-562990	56299	Materials recovery facilities and other waste management services	Private	60-562900	C	C	1990
+65-000000		Private education and health services	Private	08-000000	A	A	1939
+65-610000	61	Private educational services	Private	65-000000	B	B	1990
+65-611100	6111	Private elementary and secondary schools	Private	65-610000	B	B	1972
+65-611300	6112	Private junior colleges, colleges, universities, and professional schools	Private	65-610000	B	B	1958
+65-611300	6113	Private junior colleges, colleges, universities, and professional schools	Private	65-610000	B	B	1958
+65-611400	6114	Private business schools and computer and management training	Private	65-610000	B	B	1990
+65-611420	61141	Private business and secretarial schools and private computer training	Private	65-611400	C	C	1990
+65-611420	61142	Private business and secretarial schools and private computer training	Private	65-611400	C	C	1990
+65-611430	61143	Private professional and management development training	Private	65-611400	C	C	1990
+65-611500	6115	Private technical and trade schools	Private	65-610000	B	B	1990
+65-611512	611512	Private flight training	Private	65-611500	C	C	1990
+65-611513	611511	Private cosmetology and barber schools and apprenticeship training	Private	65-611500	C	C	1990
+65-611513	611513	Private cosmetology and barber schools and apprenticeship training	Private	65-611500	C	C	1990
+65-611519	611519	Other private technical and trade schools	Private	65-611500	C	C	1990
+65-611600	6116	Other private schools and instruction	Private	65-610000	C	C	1990
+65-611610	61161	Private fine arts schools	Private	65-611600	C	C	1990
+65-611620	61162	Private sports and recreation instruction	Private	65-611600	C	C	1990
+65-611690	61163	Private language schools and all other private schools and instruction	Private	65-611600	C	C	1990
+65-611690	61169	Private language schools and all other private schools and instruction	Private	65-611600	C	C	1990
+65-611691	611691	Private exam preparation and tutoring	Private	65-611690	C	C	1990
+65-611699	611699	Private miscellaneous schools and instruction	Private	65-611690	C	C	1990
+65-611700	6117	Private educational support services	Private	65-610000	B	B	1990
+65-620000	62	Health care and social assistance	Private	65-000000	A	A	1990
+65-620001	621	Health care	Private	65-620000	A	A	1990
+65-620001	622	Health care	Private	65-620000	A	A	1990
+65-620001	623	Health care	Private	65-620000	A	A	1990
+65-621000	621	Ambulatory health care services	Private	65-620000	A	A	1990
+65-621100	6211	Offices of physicians	Private	65-621000	A	A	1972
+65-621111	621111	Offices of physicians (except mental health specialists)	Private	65-621100	E	E	1990
+65-621112	621112	Offices of physicians, mental health specialists	Private	65-621100	E	E	1990
+65-621200	6212	Offices of dentists	Private	65-621000	A	A	1982
+65-621300	6213	Offices of other health practitioners	Private	65-621000	A	A	1985
+65-621310	62131	Offices of chiropractors	Private	65-621300	A	A	1990
+65-621320	62132	Offices of optometrists	Private	65-621300	A	A	1990
+65-621330	62133	Offices of mental health practitioners (except physicians)	Private	65-621300	A	A	1990
+65-621340	62134	Offices of physical, occupational and speech therapists, and audiologists	Private	65-621300	A	A	1990
+65-621390	62139	Offices of all other health practitioners	Private	65-621300	A	A	1990
+65-621391	621391	Offices of podiatrists	Private	65-621390	C	C	1990
+65-621399	621399	Offices of all other miscellaneous health practitioners	Private	65-621390	C	C	1990
+65-621400	6214	Outpatient care centers	Private	65-621000	A	A	1990
+65-621420	62142	Outpatient mental health and substance abuse centers	Private	65-621400	A	A	1990
+65-621490	62141	Other outpatient care centers	Private	65-621400	A	A	1990
+65-621490	62149	Other outpatient care centers	Private	65-621400	A	A	1990
+65-621491	621491	HMO medical centers	Private	65-621490	C	C	1990
+65-621492	621492	Kidney dialysis centers	Private	65-621490	C	C	1990
+65-621493	621493	Freestanding ambulatory surgical and emergency centers	Private	65-621490	A	A	1990
+65-621498	621410	Family planning and all other outpatient care centers	Private	65-621490	A	A	1990
+65-621498	621498	Family planning and all other outpatient care centers	Private	65-621490	A	A	1990
+65-621500	6215	Medical and diagnostic laboratories	Private	65-621000	A	A	1990
+65-621511	621511	Medical laboratories	Private	65-621500	A	A	1990
+65-621512	621512	Diagnostic imaging centers	Private	65-621500	A	A	1990
+65-621600	6216	Home health care services	Private	65-621000	A	A	1985
+65-621900	6219	Other ambulatory health care services	Private	65-621000	A	A	1990
+65-621910	62191	Ambulance services	Private	65-621900	A	A	1990
+65-621990	62199	All other ambulatory health care services	Private	65-621900	A	A	1990
+65-621991	621991	Blood and organ banks	Private	65-621990	C	C	1990
+65-621999	621999	All other miscellaneous ambulatory health care services	Private	65-621990	C	C	1990
+65-622000	622	Hospitals	Private	65-620000	A	A	1990
+65-622100	6221	General medical and surgical hospitals	Private	65-622000	A	A	1958
+65-622200	6222	Psychiatric and substance abuse hospitals	Private	65-622000	G	G	1990
+65-622300	6223	Specialty, except psychiatric and substance abuse, hospitals	Private	65-622000	G	G	1990
+65-623000	623	Nursing and residential care facilities	Private	65-620000	A	A	1990
+65-623100	6231	Skilled nursing care facilities	Private	65-623000	A	A	1990
+65-623200	6232	Residential intellectual and developmental disability, mental health, and substance abuse facilities	Private	65-623000	A	A	1990
+65-623210	62321	Residential intellectual and developmental disability facilities	Private	65-623200	A	A	1990
+65-623220	62322	Residential mental health and substance abuse facilities	Private	65-623200	A	A	1990
+65-623300	6233	Continuing care retirement communities and assisted living facilities for the elderly	Private	65-623000	A	A	1990
+65-623311	623311	Continuing care retirement communities	Private	65-623300	A	A	1990
+65-623312	623312	Assisted living facilities for the elderly	Private	65-623300	A	A	1990
+65-623900	6239	Other residential care facilities	Private	65-623000	A	A	1990
+65-624000	624	Social assistance	Private	65-620000	A	A	1990
+65-624100	6241	Individual and family services	Private	65-624000	A	A	1990
+65-624110	62411	Child and youth services	Private	65-624100	A	A	1990
+65-624120	62412	Services for the elderly and persons with disabilities	Private	65-624100	A	A	1990
+65-624190	62419	Other individual and family services	Private	65-624100	A	A	1990
+65-624200	6242	Community food and housing, and emergency and other relief services	Private	65-624000	A	A	1990
+65-624210	62421	Community food services	Private	65-624200	E	E	1990
+65-624230	62422	Community housing, emergency, and relief services	Private	65-624200	E	E	1990
+65-624230	62423	Community housing, emergency, and relief services	Private	65-624200	E	E	1990
+65-624300	6243	Vocational rehabilitation services	Private	65-624000	A	A	1972
+65-624400	6244	Child care services	Private	65-624000	A	A	1985
+70-000000		Leisure and hospitality	Private	08-000000	A	A	1939
+70-710000	71	Arts, entertainment, and recreation	Private	70-000000	A	A	1990
+70-711000	711	Performing arts, spectator sports, and related industries	Private	70-710000	A	A	1990
+70-711100	7111	Performing arts companies	Private	70-711000	A	A	1990
+70-711130	71113	Musical groups and artists	Private	70-711100	C	C	1990
+70-711190	71111	Theater, dance, and other performing arts companies and dinner theaters	Private	70-711100	C	C	1990
+70-711190	71112	Theater, dance, and other performing arts companies and dinner theaters	Private	70-711100	C	C	1990
+70-711190	71119	Theater, dance, and other performing arts companies and dinner theaters	Private	70-711100	C	C	1990
+70-711200	7112	Spectator sports	Private	70-711000	A	A	1990
+70-711211	711211	Sports teams and clubs	Private	70-711200	C	C	1990
+70-711219	711212	Racetracks and other spectator sports	Private	70-711200	C	C	1990
+70-711219	711219	Racetracks and other spectator sports	Private	70-711200	C	C	1990
+70-711300	7113	Arts and sports promoters and agents and managers for public figures	Private	70-711000	E	E	1990
+70-711300	7114	Arts and sports promoters and agents and managers for public figures	Private	70-711000	E	E	1990
+70-711500	7115	Independent artists, writers, and performers	Private	70-711000	E	E	1990
+70-712000	712	Museums, historical sites, and similar institutions	Private	70-710000	A	A	1990
+70-712110	71211	Museums	Private	70-712000	A	A	1990
+70-712190	71212	Historical sites, zoos, botanical gardens, nature parks, and other similar institutions	Private	70-712000	A	A	1990
+70-712190	71213	Historical sites, zoos, botanical gardens, nature parks, and other similar institutions	Private	70-712000	A	A	1990
+70-712190	71219	Historical sites, zoos, botanical gardens, nature parks, and other similar institutions	Private	70-712000	A	A	1990
+70-713000	713	Amusement, gambling, and recreation industries	Private	70-710000	A	A	1990
+70-713100	7131	Amusement parks and arcades	Private	70-713000	E	E	1990
+70-713200	7132	Gambling industries	Private	70-713000	A	A	1990
+70-713210	71321	Casinos, except casino hotels	Private	70-713200	G	G	1990
+70-713290	71329	Other gambling industries	Private	70-713200	G	G	1990
+70-713900	7139	Other amusement and recreation industries	Private	70-713000	E	E	1990
+70-713910	71391	Golf courses and country clubs	Private	70-713900	A	A	1990
+70-713920	71392	Skiing facilities	Private	70-713900	A	A	1990
+70-713930	71393	Marinas	Private	70-713900	A	A	1990
+70-713940	71394	Fitness and recreational sports centers	Private	70-713900	A	A	1990
+70-713950	71395	Bowling centers	Private	70-713900	E	E	1985
+70-713990	71399	All other amusement and recreation industries	Private	70-713900	E	E	1990
+70-720000	72	Accommodation and food services	Private	70-000000	A	A	1990
+70-721000	721	Accommodation	Private	70-720000	A	A	1972
+70-721100	7211	Traveler accommodation	Private	70-721000	A	A	1972
+70-721110	72111	Hotels (except casino hotels) and motels	Private	70-721100	A	A	1990
+70-721120	72112	Casino hotels	Private	70-721100	C	C	1990
+70-721190	72119	Other traveler accommodation	Private	70-721100	C	C	1990
+70-721191	721191	Bed-and-breakfast inns	Private	70-721190	C	C	1990
+70-721199	721310	All other traveler accommodation and rooming and boarding houses, dormitories, and workers' camps	Private	70-721190	C	C	1990
+70-721199	721199	All other traveler accommodation and rooming and boarding houses, dormitories, and workers' camps	Private	70-721190	C	C	1990
+70-721200	7212	Recreational vehicle (RV) parks and recreational camps	Private	70-721000	A	A	1972
+70-722000	722	Food services and drinking places	Private	70-720000	A	A	1990
+70-722300	7223	Special food services	Private	70-722000	A	A	1990
+70-722310	72231	Food service contractors	Private	70-722300	A	A	1990
+70-722330	72232	Caterers and mobile food services	Private	70-722300	A	A	1990
+70-722330	72233	Caterers and mobile food services	Private	70-722300	A	A	1990
+70-722400	7224	Drinking places, alcoholic beverages	Private	70-722000	A	A	1990
+70-722500	7225	Restaurants and other eating places	Private	70-722000	A	A	1990
+70-722511	722511	Full-service restaurants	Private	70-722500	A	A	1990
+70-722513	722513	Limited-service restaurants	Private	70-722500	A	A	1990
+70-722514	722514	Cafeterias, grill buffets, and buffets	Private	70-722500	E	E	1990
+70-722515	722515	Snack and nonalcoholic beverage bars	Private	70-722500	E	E	1990
+80-000000		Other services	Private	08-000000	A	A	1939
+80-811000	811	Repair and maintenance	Private	80-000000	A	A	1990
+80-811100	8111	Automotive repair and maintenance	Private	80-811000	A	A	1990
+80-811110	81111	Automotive mechanical and electrical repair and maintenance	Private	80-811100	A	A	1990
+80-811111	811111	General automotive repair	Private	80-811110	E	E	1990
+80-811114	811114	Specialized automotive repair	Private	80-811110	E	E	1990
+80-811120	81112	Automotive body, paint, interior, and glass repair	Private	80-811100	A	A	1990
+80-811121	811121	Automotive body, paint, and interior repair and maintenance	Private	80-811120	B	B	1990
+80-811122	811122	Automotive glass replacement shops	Private	80-811120	B	B	1990
+80-811190	81119	Other automotive repair and maintenance	Private	80-811100	A	A	1990
+80-811192	811192	Car washes	Private	80-811190	A	A	1990
+80-811198	811191	Automotive oil change and lubrication shops and all other automotive repair and maintenance	Private	80-811190	A	A	1990
+80-811198	811198	Automotive oil change and lubrication shops and all other automotive repair and maintenance	Private	80-811190	A	A	1990
+80-811200	8112	Electronic and precision equipment repair and maintenance	Private	80-811000	E	E	1990
+80-811300	8113	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	Private	80-811000	A	A	1990
+80-811400	8114	Personal and household goods repair and maintenance	Private	80-811000	E	E	1990
+80-812000	812	Personal and laundry services	Private	80-000000	A	A	1990
+80-812100	8121	Personal care services	Private	80-812000	A	A	1990
+80-812110	81211	Hair, nail, and skin care services	Private	80-812100	A	A	1990
+80-812112	812111	Barber shops and beauty salons	Private	80-812110	E	E	1990
+80-812112	812112	Barber shops and beauty salons	Private	80-812110	E	E	1990
+80-812113	812113	Nail salons	Private	80-812110	E	E	1990
+80-812190	81219	Other personal care services	Private	80-812100	A	A	1990
+80-812200	8122	Death care services	Private	80-812000	A	A	1990
+80-812210	81221	Funeral homes and funeral services	Private	80-812200	B	B	1972
+80-812220	81222	Cemeteries and crematories	Private	80-812200	B	B	1990
+80-812300	8123	Drycleaning and laundry services	Private	80-812000	A	A	1990
+80-812310	81231	Coin-operated laundries and drycleaners	Private	80-812300	B	B	1990
+80-812320	81232	Drycleaning and laundry services, except coin-operated	Private	80-812300	E	E	1990
+80-812330	81233	Linen and uniform supply	Private	80-812300	H	H	1990
+80-812331	812331	Linen supply	Private	80-812330	C	C	1990
+80-812332	812332	Industrial launderers	Private	80-812330	C	C	1990
+80-812900	8129	Other personal services	Private	80-812000	A	A	1990
+80-812910	81291	Pet care (except veterinary) services	Private	80-812900	A	A	1990
+80-812930	81293	Parking lots and garages	Private	80-812900	A	A	1990
+80-812990	81292	Photofinishing and all other personal services	Private	80-812900	C	C	1990
+80-812990	81299	Photofinishing and all other personal services	Private	80-812900	C	C	1990
+80-813000	813	Religious, grantmaking, civic, professional, and similar organizations	Private	80-000000	A	A	1990
+80-813200	8132	Grantmaking and giving services	Private	80-813000	A	A	1990
+80-813211	813211	Grantmaking foundations	Private	80-813200	A	A	1990
+80-813212	813212	Voluntary health organizations	Private	80-813200	E	E	1990
+80-813219	813219	Other grantmaking and giving services	Private	80-813200	E	E	1990
+80-813300	8133	Social advocacy organizations	Private	80-813000	A	A	1990
+80-813311	813311	Human rights organizations	Private	80-813300	A	A	1990
+80-813319	813312	Environment, conservation, wildlife, and other social advocacy organizations	Private	80-813300	A	A	1990
+80-813319	813319	Environment, conservation, wildlife, and other social advocacy organizations	Private	80-813300	A	A	1990
+80-813400	8134	Civic and social organizations	Private	80-813000	A	A	1990
+80-813900	8139	Business, professional, labor, political, and similar organizations	Private	80-813000	A	A	1990
+80-813910	81391	Business associations	Private	80-813900	A	A	1982
+80-813920	81392	Professional organizations	Private	80-813900	A	A	1972
+80-813930	81393	Labor unions and similar labor organizations	Private	80-813900	A	A	1982
+80-813990	81394	Political and other similar organizations (except business, professional, and labor organizations)	Private	80-813900	A	A	1990
+80-813990	81399	Political and other similar organizations (except business, professional, and labor organizations)	Private	80-813900	A	A	1990
+90-000000	All in-scope NAICS	Government	All government	07-000000	B	B	1939
+90-910000	All in-scope NAICS	Federal	Federal government	90-000000	B	B	1939
+90-911000	All in-scope NAICS	Federal, except U.S. Postal Service	Federal government	90-910000	B	B	1939
+90-916220	All in-scope NAICS	Federal hospitals	Federal government	90-910000	B	B	1975
+90-919110	All in-scope NAICS	Department of Defense	Federal government	90-910000	B	B	1939
+90-919120	All in-scope NAICS	U.S. Postal Service	Federal government	90-910000	B	B	1939
+90-919999	All in-scope NAICS	Other Federal government	Federal government	90-910000	B	B	1975
+90-920000	All in-scope NAICS	State government	State government	90-000000	B	B	1955
+90-921611	All in-scope NAICS	State government education	State government	90-920000	B	B	1955
+90-922000	All in-scope NAICS	State government, excluding education	State government	90-920000	B	B	1955
+90-922622	All in-scope NAICS	State hospitals	State government	90-922000	B	B	1972
+90-922920	All in-scope NAICS	State government general administration	State government	90-922000	B	B	1972
+90-922999	All in-scope NAICS	Other State government	State government	90-922000	B	B	1972
+90-930000	All in-scope NAICS	Local government	Local government	90-000000	B	B	1955
+90-931611	All in-scope NAICS	Local government education	Local government	90-930000	B	B	1955
+90-932000	All in-scope NAICS	Local government, excluding education	Local government	90-930000	B	B	1955
+90-932221	All in-scope NAICS	Local government utilities	Local government	90-932000	B	B	1990
+90-932480	All in-scope NAICS	Local government transportation	Local government	90-932000	B	B	1990
+90-932622	All in-scope NAICS	Local hospitals	Local government	90-932000	B	B	1972
+90-932920	All in-scope NAICS	Local government general administration	Local government	90-932000	B	B	1990
+90-932999	All in-scope NAICS	Other local government	Local government	90-932000	B	B	1990
