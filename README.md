@@ -99,6 +99,6 @@ The analyses indicate that:
 
 ## Authors
 
-Gabriella Gass
-Colten Wasden
+Gabriella Gass,
+Colten Wasden,
 Garret Obenchain
