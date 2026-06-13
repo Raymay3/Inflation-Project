@@ -35,10 +35,10 @@ Monthly rent estimates for metropolitan areas throughout the United States.
 
 ```text
 .
-├── eda.py                         # Initial exploratory data analysis
-├── regional_rent_analysis.py      # Regional housing affordability analysis
-├── industry_growth.py             # Employment growth by industry
-├── cw.py                          # Inflation data preparation and analysis
+├── overview_eda.ipynb                # Initial exploratory data analysis
+├── regional_rent_analysis.ipynb      # Regional housing affordability analysis
+├── industry_growth.ipynb             # Employment growth by industry
+├── Headcount_inflation.ipynb         # Inflation data preparation and analysis
 ├── Dataset #1 - earnings.txt
 ├── Dataset #2 - inflation.txt
 ├── Dataset #3 - Metro_zori_uc_sfrcondomfr_sm_month.csv
