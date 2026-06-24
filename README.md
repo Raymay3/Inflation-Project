@@ -49,7 +49,6 @@ Monthly rent estimates for metropolitan areas throughout the United States.
 ├── industry_growth.ipynb                        # Employment growth analysis
 ├── Headcount_inflation.ipynb                    # Inflation and employment correlation analysis
 │
-├── industry_employment_growth.png               # Employment growth visualization
 ├── SIADS 593 - Milestone I Project Report.pdf   # Final project report
 └── README.md
 ```
