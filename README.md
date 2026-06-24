@@ -35,15 +35,22 @@ Monthly rent estimates for metropolitan areas throughout the United States.
 
 ```text
 .
-├── overview_eda.ipynb                # Initial exploratory data analysis
-├── regional_rent_analysis.ipynb      # Regional housing affordability analysis
-├── industry_growth.ipynb             # Employment growth by industry
-├── Headcount_inflation.ipynb         # Inflation data preparation and analysis
-├── Dataset #1 - earnings.txt
-├── Dataset #2 - inflation.txt
-├── Dataset #3 - Metro_zori_uc_sfrcondomfr_sm_month.csv
-├── earnings_ids.txt
-├── inflation_ids.txt
+├── data/
+│   ├── Dataset #1 - earnings.txt                # BLS employment data
+│   ├── Dataset #2 - inflation.txt               # BLS average prices data
+│   ├── Dataset #3 - Metro_zori_uc_sfrcondomfr_sm_month.csv
+│   │                                            # Zillow rent index data
+│   ├── earnings_ids.txt                         # Employment series lookup table
+│   ├── inflation_ids.txt                        # Inflation series lookup table
+│   └── regional_index.csv                       # Processed regional rent index
+│
+├── overview_eda.ipynb                           # Initial exploratory analysis
+├── regional_rent_analysis.ipynb                 # Regional housing affordability analysis
+├── industry_growth.ipynb                        # Employment growth analysis
+├── Headcount_inflation.ipynb                    # Inflation and employment correlation analysis
+│
+├── industry_employment_growth.png               # Employment growth visualization
+├── SIADS 593 - Milestone I Project Report.pdf   # Final project report
 └── README.md
 ```
 
